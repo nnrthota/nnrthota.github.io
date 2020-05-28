@@ -2,7 +2,7 @@
 layout: post
 title:  "Hyperledger fabric Mutual TLS"
 date:   2020-05-28 13:29:35 +0400
-categories: jekyll update
+categories: posts
 ---
 
 <img align="center" width="850" src="../../../../../images/mutualtls/main.png">
