@@ -28,13 +28,18 @@ layout: home
 
 ***PROJECTS OVERVIEW***
 - ***BPaaS***: Blockchain As A Service (03/2019 – Present). <br/>
-  Hyperledger Fabric Lead in the BPaaS project. BPaaS project is a blockchain automation tool which is built using cutting edge technologies such as golang, Nats, Kubernetes, PKS, etc. BPaaS platform creates Kubernetes clusters in PKS infrastructure and creates Fabric organizations on top of newly created clusters in a multi-tenancy fashion. [Details are here](https://app.dev.consensys-dubai.net/)
+  Blockchain Software Developer in the BPaaS project. BPaaS project is a blockchain automation tool which is built using cutting edge technologies such as golang, Nats, Kubernetes, PKS, etc. BPaaS platform creates Kubernetes clusters in PKS (vmware, vsphere) and creates Fabric organizations on top of newly created clusters in a multi-tenancy fashion. [Details are here](https://app.dev.consensys-dubai.net/)
+  <hr> 
+
 - ***UBR Consortium***: Unified Blockchain RegistryProject (UBR) (03/2019 – Present). <br/>
   It is a Dubai government project. Nearly seven government organizations formed  a consortium to share the licensens instantly using blockchain in a transparent and permissioned way. Banks are also joined inorder to access the license details from the private consortium to complete the application process of customers fastly. [Details are here](https://www.smartdubai.ae/newsroom/news/dubai-economy-and-dubai-pulse-launch-unified-business-registry-platformed)
+  <hr>
 - ***Podtnl***:   [Open Source] <br/>
-  Expose your pod to Online easily from any kubernetes clusters without creating a kubernetes service. No need to worry about accessing your application during development, forgot about the following buzz words [ingress, controller, loadbalancer, Public IP, etc].
+  Expose your pod to Online easily from any kubernetes clusters without creating a kubernetes service. No need to worry about accessing your application during development, forgot about the following buzz words [ingress, controller, loadbalancer, Public IP, etc].[Link](https://narendranathreddythota.github.io/podtnl/)
+  <hr>
 - ***Author***: Mastering Hyperledger Fabric Book (04/2020 – Present)
-[Link](https://narendranathreddythota.github.io/masteringhyperledgerfabric/)
+[Link](https://narendranathreddythota.github.io/masteringhyperledgerfabric/)  
+  <hr>
 - ***Reviewer***: www.packtpub.com (01/2019 – Present)<br/>
 Total reviewed books are five:
   - Blockchain For Business 2019
@@ -42,6 +47,7 @@ Total reviewed books are five:
   - Blockchain for Finance
   - Securing Blockchain
   - Hands-On Machine Learning for Blockchain
+<hr>
 - ***Banca Sella*** - KUB (Freelance) (06/2018 – 12/2018)
 E-Kyc with group of banks in Italy using hyperledger fabric KUB Network
 
