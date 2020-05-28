@@ -69,6 +69,9 @@ E-Kyc with group of banks in Italy using hyperledger fabric KUB Network
 <img align="center" width="850" src="./images/ignacio.png">
 <hr>
 
+<img align="center" width="850" src="./images/yusuf.png">
+<hr>
+
 <img align="center" width="850" src="./images/raja.png">
 <hr>
 
