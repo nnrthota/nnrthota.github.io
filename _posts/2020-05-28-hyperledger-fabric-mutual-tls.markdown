@@ -2,6 +2,7 @@
 layout: post
 title:  "Hyperledger fabric Mutual TLS"
 comments: true
+description: what is mutual tls, how two way tls works in hyperledger fabric
 date:   2020-05-28 13:29:35 +0400
 categories: posts
 ---
