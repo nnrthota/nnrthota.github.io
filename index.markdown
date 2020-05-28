@@ -58,7 +58,20 @@ E-Kyc with group of banks in Italy using hyperledger fabric KUB Network
   - BFSI Blockchain Hackathon 2017 won – 2 nd Rank (Invoice Financing on Blockchain)
   - D3 USTGlobal Developer Conference won – 3rd Rank out of 1500 hacks (200,000 prize money to the Team) Position: Team Leader https://d3.ust-global.com/
 
+
+***Testimonials***
+
+<img align="center" width="850" src="./images/sai.png">
 <hr>
+
+<img align="center" width="850" src="./images/ignacio.png">
+<hr>
+
+<img align="center" width="850" src="./images/raja.png">
+<hr>
+
+<img align="center" width="850" src="./images/sai-krishna.png">
+
 <br>
 <div align="center" class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="narendranathreddythota"><a class="LI-simple-link" href='https://ae.linkedin.com/in/narendranathreddythota?trk=profile-badge'>Narendranath Reddy</a></div>
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
