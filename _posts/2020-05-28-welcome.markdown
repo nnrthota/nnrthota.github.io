@@ -4,6 +4,9 @@ title:  "Hyperledger fabric Mutual TLS"
 date:   2020-05-28 13:29:35 +0400
 categories: jekyll update
 ---
+
+<img align="center" width="850" src="../../../../../images/mutualtls/main.png">
+
 ***TLS*** — encryption & integrity
 
 when A wants to send a message to B
