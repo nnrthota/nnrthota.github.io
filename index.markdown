@@ -58,7 +58,6 @@ E-Kyc with group of banks in Italy using hyperledger fabric KUB Network
   - BFSI Blockchain Hackathon 2017 won – 2 nd Rank (Invoice Financing on Blockchain)
   - D3 USTGlobal Developer Conference won – 3rd Rank out of 1500 hacks (200,000 prize money to the Team) Position: Team Leader https://d3.ust-global.com/
 
-
 ***Testimonials***
 
 <img align="center" width="850" src="./images/sai.png">
