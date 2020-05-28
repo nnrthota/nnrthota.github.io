@@ -31,6 +31,9 @@ stackoverflow_username: narendranath-reddy
 stackoverflow_userid: "9551146"
 mobile: "+971562586049"
 
+disqus:
+  shortname: my-blog-mjnrtehpnq
+
 # Build settings
 theme: minima
 plugins:
