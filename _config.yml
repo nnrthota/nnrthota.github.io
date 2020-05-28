@@ -24,10 +24,12 @@ description: >- # this means to ignore newlines until "baseurl:"
     Narendranath Reddy is an experienced full-stack blockchain engineer and Hyperledger Fabric expert with a proven track record of helping enterprises to build production-ready, blockchain-backed applications. He is an experienced innovator and creative thinker and he has won four hackathons on blockchain in the early days of blockchain. He is a keynote speaker, regularly speaking about blockchain and distributed ledgers and he is currently working as a Blockchain Software Engineer at Consensys, Dubai.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://narendranathreddythota.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-
 twitter_username: nnrthota
 github_username: narendranathreddythota
 linkedin_username: narendranathreddythota
+stackoverflow_username: narendranath-reddy
+stackoverflow_userid: "9551146"
+mobile: "+971562586049"
 
 # Build settings
 theme: minima
