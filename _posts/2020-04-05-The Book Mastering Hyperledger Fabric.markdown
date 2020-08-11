@@ -2,7 +2,7 @@
 layout: post
 title:  "The Book Mastering Hyperledger Fabric"
 comments: true
-description: mastering hyperledger fabric book
+description: Master The Art of Hyperledger Fabric using docker-compose, docker swarm and Kubernetes Container Orchestrator
 date:   2020-04-05 13:29:35 +0400
 categories: posts
 ---
